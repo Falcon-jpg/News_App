@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="news_1">
+        Motorola just launched the edge 50 Pro, the company’s latest phone in the edge 50 series in India, as it had promised. It has a 6.7″ 1.5K 144Hz curved pOLED display validated by pantone for the first time in the world. It offers up to 2000 nits peak brightness, support HDR 10+ and come with Corning Gorilla Glass 5 protection.\n
+        The phone is powered by Snapdragon 7 Gen 3 SoC, has up to 12GB of RAM, runs Android 14 with a promise of 3 OS updates. It has a metal frame, comes with a vegan leather finish in Luxe Lavender and Black Beauty colours, and also comes with a Moon Light pearl finish limited edition option that has a smooth finish. The phone has IP68 ratings for dust and water resistance.\n
+        The phone has a 50MP rear camera, 13MP ultra-wide camera with macro option, 10MP telephoto camera with 50x hybrid zoom. There is a 50MP autofocus camera on the front. It has camera features such as AI adaptive stabilization, autofocus tracking, AI photo enhancement engine and tilt mode. This is also the world’s first pantone validated camera that captures true colors as they are meant to be, says the company.\n
+        The phone packs a 4500mAh battery with support for up to 125W fast charging, 50W wireless charging and 10W reverse wireless charging. The entry-level model comes with a 68W charger in the box.\n
+        <b>motorola edge 50 Pro specifications</b>\n
+    > 6.7-inch (2712 x 1220 pixels) 1.5K 10-bit pOLED display with 144Hz refresh rate, 360Hz touch sampling rate, up to 2000 nits brightness, Corning Gorilla Glass 5 protection\n
+    > Qualcomm Snapdragon 7 Gen 3 (4nm) Mobile Platform with Adreno 720 GPU\n
+    > 8GB / 12GB LPDDR4X RAM with 256GB UFS 2.2 storage\n
+    > Android 14\n
+    > Dual SIM (nano + nano)\n
+    > 50MP main camera with f/1.4 aperture, OIS, Quad Pixel Technology, 13MP 120° ultra-wide autofocus camera, f/2.2 aperture, macro option, 10MP 3x telephoto camera with 50x hybrid zoom\n
+    > 50MP autofocus front camera with f/1.9 aperture, Quad Pixel Technology\n
+    > USB Type-C Audio, Stereo speakers, Dolby Atmos\n
+    > Water and dust resistant (IP68)\n
+    > Dimensions:161.23×72.4×8.19mm; Weight: 186g\n
+    > 5G SA/NSA (n1/n2/n3/n5/n7/n8/n20/n26/n28/n38/n40/n41/n66/n77/n78 bands), Dual 4G VoLTE, Wi-Fi 6E 802.11ax (2.4GHz/5GHz), Bluetooth 5.4, GPS, USB Type-C, NFC\n
+    > 4500mAh battery with support for 125W TurboPower fast charging, 50W wireless charging, 10W reverse wireless charging\n
+    </string>
+
+    <string name="news_2">
+        After recent reports on 36% of students of IIT Bombay failing to secure placements, the institute has put out a social media post with the data from an exit survey conducted among graduating students in 2022-23.\n
+        The data shows that only 6.1% of the graduating batch are still looking for jobs.\n
+        \"Lately there has been news that over 30% of IITB students do not get jobs! An exit survey among graduating students in 2022-23 says only 6.1% are still looking for jobs. Here is the survey result for you to decide…\" IIT Bombay posted on X (formerly Twitter).
+    </string>
+
+    <string name="news_3">
+        An earthquake of magnitude 5.3 on the Richter Scale hit Chamba in Himachal Pradesh on Thursday.\n
+        The National Center for Seismology in a post on X (formerly Twitter) said,\"Earthquake of Magnitude: 5.3, Occurred on 04-04-2024, 21:34:32 IST, Lat: 33.09 &amp; Long: 76.59, Depth: 10 Km, Location: Chamba, Himachal Pradesh.\"\n
+        There have been no immediate reports of loss of lives or injuries.
+    </string>
+
+    <string name="news_4">
+        Delhi Minister Atishi said on Tuesday that the BJP approached her to join the party to \"save my political career\". The Aam Aadmi Party (AAP) leader also claimed that the Enforcement Directorate (ED) would arrest her in a month if she refused to join.\n\n
+        While addressing a press conference in Delhi, Atishi said she was approached to join the party via her close aides.\n\n
+        \"The Prime Minister and BJP have made up their mind that they want to crush the Aam Aadmi Party and all its leaders and want to eliminate them,\" she said.\n\n
+        \"The BJP intends to arrest four more AAP leaders before the Lok Sabha elections: me, Saurabh Bharadwaj, Raghav Chadha and Durgesh Pathak.\"\n\n
+        The AAP leader\'s revelation came a day after the Enforcement Directorate claimed that Delhi Chief Minister Arvind Kejriwal named Atishi and Saurabh Bharadwaj while being questioned in connection with the excise policy case.\n\n
+        According to the probe agency, the AAP supremo told them that \“Vijay Nair didn\'t report to him but to Atishi Marlena and Saurabh Bharadwaj and his interaction with Vijay Nair was limited [sic].\”\n\n
+        Nair, the former communication-in-charge of the party, is one of the accused in the case. He is currently in jail.\n\n
+        On the probe agency\'s claim, Atishi said at the press conference that \"yesterday the ED took Saurabh Bharadwaj and my name in court, on the basis of a statement which has been with the ED and CBI for one and a half years\".\n\n
+        \"This statement is there in the ED chargesheet as well as in the CBI\'s. So what was the reason for raising this statement\? The reason is that now the BJP feels that despite Arvind Kejriwal, Manish Sisodia, Sanjay Singh, and Satyendra Jain being in jail, the AAP remains united and strong. Now they are planning to put the next line of leadership of the Aam Aadmi Party in jail,\" the Delhi Minister added.\n\n
+        When asked if Arvind Kejriwal would resign from his posts as Chief Minister and AAP national convenor as he is currently in Tihar Jail in connection to the Delhi liquor policy case, Atishi said, \"There are two constitutional and legal provisions related to this in our country. Representation of the People Act says that if you have a conviction for more than two years, then you cannot remain a public representative\".
+    </string>
+
+    <string name="news_5">
+        New Delhi: When Arvind Kejriwal\'s wife, Sunita, delivered another message from the jailed chief minister to the people of Delhi on Thursday, what stood out was the background in her video statement. In all her addresses so far, the backdrop had portraits of legendary freedom fighter Bhagat Singh and the Father of the Indian Constitution, BR Ambedkar, but there was a new addition between them in the latest video - a picture of Arvind Kejriwal with bars in front of him to signify his imprisonment.\n\n
+        \"Mr Kejriwal has sent a message to all of you from jail: \'I am in prison but no person in Delhi should have to suffer because of that. Every MLA should visit their constituencies every day and ask people if they are facing any problems. They should sort those problems out. I am not just talking about solving problems related to the government, we should attempt to solve their other problems too. The 2 crore people of Delhi are my family. No one should be unhappy. God bless them all. Jai Hind,\'\" Ms Kejriwal said in Hindi.\n\n
+        The photo of the AAP chief in the message was also noted by the BJP, which accused Mr Kejriwal of attempting to mislead the people of Delhi.\n\n
+        \"It is very regrettable that the portrait of a corrupt person, Arvind Kejriwal, was hanging between those of Bhagat Singh ji and Babasaheb Ambedkar ji. Earlier, the husband used to lie in front of the camera. Now that he is in jail, he is making his wife lie. The public is not going to be misled by the AAP,\" BJP Delhi President Virendra Sachdeva posted in Hindi on X.\n\n
+        After Mr Kejriwal\'s arrest by the Enforcement Directorate in the Delhi liquor policy case on March 21, his wife has been delivering messages from him to the people of Delhi and also during the \'Save Democracy\' rally on Sunday, which was a show of strength by the opposition INDIA bloc.\n\n
+        In his first message two days after his arrest, Mr Kejriwal had said, \"There are several forces within and outside India that are weakening the country. There is no jail that can keep him behind bars for long. I will come out soon and keep my promises.\"\n\n
+        During Sunday\'s rally, the chief minister\'s wife had read out his six guarantees to the people of Delhi ahead of the Lok Sabha polls and said the people of India were standing with her jailed husband.\n\n
+        The AAP chief has been sent to judicial custody till April 15, and the Delhi High Court is hearing a petition filed by him against his arrest. The court had reserved its judgment in the case on Wednesday.\n\n
+        In a separate hearing seeking Mr Kejriwal\'s removal as the chief minister after his arrest, a bench of the high court dismissed the petition on Thursday and said that democracy should take its own course.\n\n
+    </string>
+
+    <string name="news_6">
+        The Delhi High Court on Thursday refused to entertain a petition seeking the removal of Arvind Kejriwal, who is lodged in Tihar Jail after his arrest in the liquor policy case, as the Chief Minister of Delhi. A division bench of the Delhi High Court said it was Kejriwal\'s personal call on whether to continue as the CM or not.\n\n
+        This is the second petition to remove Kejriwal as Delhi CM that the High Court has dismissed.\n\n
+        The High Court asked the petitioner to approach the constitutional authorities. \"At times, personal interest has to be subordinate to national interest, but that is his (Kejriwal\'s) personal call,\" the High Court said.\n\n
+        \"We are a court of law. Do you have any precedent where the President\'s rule or Governor\'s rule has been imposed by the court\?\" the bench said.\n\n
+        The petition was filed by Vishnu Gupta, a social worker and national president of the Hindu Sena. Gupta subsequently withdrew his petition and said that he would make a presentation before the Lieutenant Governor.\n\n
+        The petitioner\'s counsel said that after the arrest of Kejriwal on March 21, there was a \"lack of government\" in the national capital.\n\n
+        The High Court said it was up to the Lieutenant Governor or the President to take a call on the issue. \"How can we declare that the government is not functioning\? The LG is fully competent to decide it. He (LG) does not need our guidance. He will do whatever he has to in accordance with law,\" the court said.\n\n
+        On March 28, the High Court dismissed a similar PIL filed by one Surjit Singh Yadav. The court had then said it was for the executive and the President to examine the issue and the court cannot interfere in the matter.
+    </string>
+
+    <string name="news_7">
+        Indian Prime Minister Narendra Modi, confident of winning a national election starting this month, has set an ambitious target of roughly doubling the economy and exports this decade, according to a government document seen by Reuters.\n\n
+        Modi has highlighted economic growth as one of his biggest achievements in election rallies and has \"guaranteed\" making the economy the third largest in the world from fifth now if he wins a third term in a row as polls predict.\n\n
+        He has already asked officials to finalise plans by around May to expand the economy to $6.69 trillion in nominal terms by 2030, from around $3.51 trillion currently, according to the October document. Though short on concrete details of how to achieve that, it has been a basis for officials\' meetings.\n\n
+        When he took office for a second term five years ago, Modi promised to take the economy to $5 trillion by the current fiscal year, but partly due to COVID-19 related disruptions, meeting that target is virtually impossible now.\n\n
+        For the next six years, Modi\'s goal is to raise per capita income to $4,418 from around $2,500, the document says, without specifying the spending or reforms needed to achieve that.\n\n
+        Modi\'s office and the finance ministry did not reply to requests seeking comment.\n\n
+        Independent economist Saugata Bhattacharya said doubling the economy by the end of the decade would be a \"very difficult feat\" requiring 6%-6.5% growth for the next seven years along with inflation of 4.5%.\n\n
+        The economy is, however, expected to have grown by around 8% in the last fiscal year ended March 31, the fastest among major countries, on the back of strong manufacturing and construction activity driven by government spending.\n\n
+        A former senior finance ministry official, Subhash Chandra Garg, said growth projections like those in the document are mostly based on \"backward arithmetical calculations\" and lack any \"reform and investment plan\".\n\n
+        \"Usually such mental gymnastics based on arithmetic calculations and assumptions are meaningless unless there is serious reform and investment plan to test it for real economy dynamics,\" said Garg, the Modi government\'s finance secretary until 2019.\n\n
+        The main opposition Congress party says India\'s economic growth in the past few years under Modi has done little to create jobs and alleviate rural distress, while the disparity between rich and poor has widened.\n\n
+        The document says Modi\'s government wants exports of goods and services to jump to $1.58 trillion by 2030 from around $700 billion, which could double the share of Indian exports in global trade to more than 4%.\n\n
+        The government also plans to focus on 70 areas of improvement including workforce skills and vocational training, critical demands of industry leaders who often complain about the skill levels of the labour force.\n\n
+        It wants the literacy rate to rise to 82% by 2030 from about 78% now, unemployment to fall to less than 5% from 8%, and labour force participation rate to jump to more than 50% from 46% now.\n\n
+        Modi has said in rallies he needs to remain in power to implement measures to take India towards a developed economy by 2047, the 100th year of independence, from mid-income levels now. He has not spelt out the measures.\n\n
+        Opinion polls show he will win big in the elections starting on April 19 and ending after seven phases on June 1, with vote counting on June 4.\n\n
+        A coalition led by Modi\'s Hindu nationalist Bharatiya Janata Party (BJP) could win nearly three-fourths of parliamentary seats in the nation of 1.42 billion people, according to a survey on Wednesday, while Congress could hit a record low.\n\n
+        He would be the first person since India\’s post-independence Prime Minister Jawaharlal Nehru to win three consecutive terms.
+    </string>
+
+
+    <string name="news">
+        The Ramlila ground in Delhi, which hosted the Indian National Developmental, Inclusive Alliance\’s (INDIA) mega rally on March 31, witnessed a crowd of thousands of people, breaching the 20,000 capacity of the ground.\n\n
+        Beating the heat, several people reached the venue on foot, in buses, trucks, and autos from different backgrounds in support of the Opposition bloc\’s rally to \“safeguard democracy\” and speak on various issues, including, the \“misuse\” of Central probe agencies against opposition leaders by the BJP-led Centre, and hosting a free and fair election.\n\n
+        Speeches of various top leaders elicited a range of emotions among the crowd, often resulting in jeering, sloganeering and the occasional laughs. The loudest reactions were palpable whenever the opposition leaders jabbed at the ruling BJP, such as the Aam Aadmi Party leader and Punjab Chief Minister Bhagwant Mann\‘s comment on \“whether Prime Minister Narendra Modi can even make \‘chai\’ or has been lying to us about this as well.\”\n\n
+        Samajwadi Party\’s Akhilesh Yadav drew similar reactions saying, \“Mr. Modi has time to meet Priyanka Chopra but not the farmers protesting for their rights.\“ AAP\’s Sunita Kejriwal (wife of Delhi Chief Minister Arvind Kejriwal), Jharkhand Mukti Morcha\’s Kalpana Soren, Congress\’s Rahul Gandhi and Sonia Gandhi also evoked emotions from the people present.\n\n
+        The rally started with protest songs and stretched on as leaders on the dais called for the defeat of the BJP. Crowds, dominated mostly by AAP and Congress supporters, were dressed in paraphernalia of different parties.\n\n
+        A sea of yellow, the AAP\’s adopted colour, was countered equally by the Congress\’s flags. A Congress supporter atop a loudspeaker, dressed in kurta with Rahul\’s face on it, hoisted the Congress flag. An AAP supporter painted himself in the tricolour with the slogan \‘Main Bhi Kejriwal\’ across his chest prominently.\n\n
+        Citizens were sporting masks of AAP supremo Mr. Kejriwal, and held banners depicting him behind bars.\n\n
+        Mr. Kejriwal was arrested by the Enforcement Directorate on March 21 in relation to a money laundering case allegedly connected to the now-scrapped Delhi Excise Policy. He is the second Chief Minister under the custody of probe agencies. On January 31, JMM leader Hemant Soren stepped down as Jharkhand\’s Chief Minister moments before the ED arrested him on allegations of money laundering linked to a land \“scam\”.\n\n
+        Two seats on the dais were left empty for them during the rally out of respect.\n\n
+        The sea of crowds hosted all ages and backgrounds, from young children fascinated by the hubbub around them to old timers who have seen many governments fall before their eyes. Women voices were an equal participant in the rally.\n\n
+        Security measures\n
+        Elaborate security arrangements were made by the Delhi and Punjab police and paramilitary forces at the ground. Police, paramilitary forces and event organisers kept a check at each entry point of the various gates. Inside the venue, police kept a watch to avoid a stampede-like situation and for smoother entry and exit of each supporter.\n\n
+        Permission was granted with certain restrictions, such as no entry of tractors and no weapons to be carried by any supporters. Section 144 Cr.PC was imposed at the DDU Marg. No marches were allowed by the police. \n\n
+        Police officials were deployed at different ends of roads leading to Ram Lila ground.
+    </string>
+
+</resources>
